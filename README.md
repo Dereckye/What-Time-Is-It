@@ -1,6 +1,6 @@
 <img src="ex014/ScreenPrint.PNG" style="width: 50%; height: 50%">
 
-Time of Day Greeting Script
+<h1>Time of Day Greeting Script</h1>
 This script displays a greeting and background image based on the current time of day.
 
 Usage
@@ -15,17 +15,22 @@ Determines the hour of the day using the getHours() method.
 Updates the greeting message based on the time of day using template literals.
 Changes the background image and color of the webpage based on the time of day using conditional statements.
 Screenshots
-Morning Greeting and Background:
 
-Morning Screenshot
+<p1>Morning Greeting: </p1>
 
-Afternoon Greeting and Background:
+<img src="ex014/Foto-Manha.png">
 
-Afternoon Screenshot
+<p2>Afternoon Greeting: </p2>
 
-Night Greeting and Background:
+<img src="ex014/Foto-Tarde.png">
 
-Night Screenshot
+<p3>Night Greeting: </p3>
+
+<img src="ex014/Foto-Noite.png">
 
 Credits
 This script was created by Derecky using HTML, CSS, and JavaScript. The background images used in this script were sourced from https://www.pexels.com/.
+
+<footer>
+        <p>&copy; Dereck Luiz dos Santos</p>
+    </footer>   
