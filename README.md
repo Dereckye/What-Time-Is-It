@@ -1,4 +1,3 @@
-<img src="ex014/ScreenPrint.PNG" style="width: 50%; height: 50%">
 
 <h1>Time of Day Greeting Script</h1>
 This script displays a greeting and background image based on the current time of day.
